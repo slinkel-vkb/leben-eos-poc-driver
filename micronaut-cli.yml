@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: de.vkb.leben.eospoc
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [app-name, http-client-test, jackson-xml, junit, kafka, kafka-streams, kapt, kotlin, kotlin-application, logback, management, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, readme, serialization-jackson, shade, test-resources, yaml, yaml-build]
